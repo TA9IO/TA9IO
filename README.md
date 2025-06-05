@@ -13,11 +13,11 @@
 
 ```ts
 const Taki = {
-  code: ['JavaScript', 'TypeScript', 'Python'],
+  code: ['JavaScript', 'TypeScript'],
   frontEnd: ['React', 'Next.js', 'React Native', 'Three.js'],
   backEnd: ['Node.js', 'NestJS', 'Express'],
   database: ['PostgreSQL', 'MongoDB'],
   devOps: ['Docker', 'Nginx', 'CI/CD', 'Linux'],
   languages: ['English', 'French', 'Arabic'],
-  fun: ['Chess ♟️', 'Rubik\'s Cube 🧊', '3D Design 🔧']
+  fun: ['Chess ♟️', 'Rubik\'s Cube 🧊', 'mechanic 🔧🚘']
 }
